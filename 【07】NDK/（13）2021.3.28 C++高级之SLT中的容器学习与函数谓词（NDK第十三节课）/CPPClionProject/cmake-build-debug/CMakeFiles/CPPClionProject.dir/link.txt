@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/CPPClionProject.dir/T7.cpp.o  -o CPPClionProject.exe -Wl,--out-implib,libCPPClionProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

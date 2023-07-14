@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/jingtong_yunyon_chuangzhao_VIPALL_NDK/XiangXueNDKAllVIP/ndk13/project/CPPClionProject/T7.cpp
+iostream
+-
+set
+-
+
