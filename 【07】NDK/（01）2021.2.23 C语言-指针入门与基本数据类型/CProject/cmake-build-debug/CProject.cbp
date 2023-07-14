@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CProject">
+				<Option output="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/cmake-build-debug/CProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\INCLUDE"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\ATLMFC\INCLUDE"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 CProject"/>
+					<CompileFile command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CProject/fast">
+				<Option output="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/cmake-build-debug/CProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\INCLUDE"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\ATLMFC\INCLUDE"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 CProject/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote\XiangXueNDKAllVIP\ndk01\project\CProject\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/T1.c">
+			<Option target="CProject"/>
+		</Unit>
+		<Unit filename="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/T2.c">
+			<Option target="CProject"/>
+		</Unit>
+		<Unit filename="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/T3.c">
+			<Option target="CProject"/>
+		</Unit>
+		<Unit filename="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/T4.c">
+			<Option target="CProject"/>
+		</Unit>
+		<Unit filename="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/T5.c">
+			<Option target="CProject"/>
+		</Unit>
+		<Unit filename="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/T6.c">
+			<Option target="CProject"/>
+		</Unit>
+		<Unit filename="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/T7.c">
+			<Option target="CProject"/>
+		</Unit>
+		<Unit filename="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/T8.c">
+			<Option target="CProject"/>
+		</Unit>
+		<Unit filename="D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,48 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/bin/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 12.00.21005.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_fee86\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_fee86.dir\build.make /nologo -L                  CMakeFiles\cmTC_fee86.dir\build
+Building C object CMakeFiles/cmTC_fee86.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Derry\AppData\Local\Temp\nm7A4.tmp
+testCCompiler.c
+Linking C executable cmTC_fee86.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fee86.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_fee86.dir\objects1.rsp @C:\Users\Derry\AppData\Local\Temp\nm880.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_dcc4c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_dcc4c.dir\build.make /nologo -L                  CMakeFiles\cmTC_dcc4c.dir\build
+Building C object CMakeFiles/cmTC_dcc4c.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Derry\AppData\Local\Temp\nmEA9.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_dcc4c.exe
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_dcc4c.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_dcc4c.dir\objects1.rsp @C:\Users\Derry\AppData\Local\Temp\nm1021.tmp
+
+
+

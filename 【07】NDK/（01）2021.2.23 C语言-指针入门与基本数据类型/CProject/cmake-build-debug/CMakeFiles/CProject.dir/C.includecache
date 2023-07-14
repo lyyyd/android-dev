@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk01/project/CProject/T8.c
+stdio.h
+-
+
