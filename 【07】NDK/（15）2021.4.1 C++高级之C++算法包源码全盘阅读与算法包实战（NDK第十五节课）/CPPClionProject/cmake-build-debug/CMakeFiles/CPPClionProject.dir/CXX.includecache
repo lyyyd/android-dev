@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/jingtong_yunyon_chuangzhao_VIPALL_NDK/XiangXueNDKAllVIP/ndk15/project/CPPClionProject/T11.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
