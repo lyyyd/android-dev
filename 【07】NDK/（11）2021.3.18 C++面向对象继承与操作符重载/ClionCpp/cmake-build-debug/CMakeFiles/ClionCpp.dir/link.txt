@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ClionCpp.dir/T7.cpp.o  -o ClionCpp.exe -Wl,--out-implib,libClionCpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
