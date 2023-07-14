@@ -1,0 +1,3 @@
+D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk05/project/ClionCProject/cmake-build-debug/CMakeFiles/ClionCProject.dir
+D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk05/project/ClionCProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/jingtong_yunyon_chuangzhao_VIPALL_NDK_YoudaoNote/XiangXueNDKAllVIP/ndk05/project/ClionCProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
