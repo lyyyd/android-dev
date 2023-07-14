@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/jingtong_yunyon_chuangzhao_VIPALL_NDK/XiangXueNDKAllVIP/ndk17/project/CPPClionProject/T10.cpp
+iostream
+-
+
